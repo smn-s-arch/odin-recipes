@@ -1,2 +1,2 @@
 # odin-recipes
-Repo for 
+Repo for The Odin Project Foundations Path
